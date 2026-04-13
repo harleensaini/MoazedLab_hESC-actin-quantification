@@ -13,10 +13,10 @@ Code developed with assistance from Claude AI (Anthropic, 2025).
 **Authors:** Harleen Saini(1), Jiuchun Zhang(2), Hiba Dardari(1†), Danesh Moazed(1*)
 
 **Affiliations:**	  
-(1) Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, Harvard Medical School; Boston, MA, USA. 
-(2) Department of Cell Biology, Blavatnik Institute, Harvard Medical School; Boston, MA, USA. 
-(†) Present address: Lewis-Sigler Institute for Integrative Genomics, Princeton University; Princeton, NJ, USA.
-(*) Corresponding author. Email: danesh@hms.harvard.edu
+(1) Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, Harvard Medical School; Boston, MA, USA.  
+(2) Department of Cell Biology, Blavatnik Institute, Harvard Medical School; Boston, MA, USA.  
+(†) Present address: Lewis-Sigler Institute for Integrative Genomics, Princeton University; Princeton, NJ, USA.  
+(*) Corresponding author. Email: danesh@hms.harvard.edu  
 
 
 ## Data
