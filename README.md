@@ -6,7 +6,7 @@
 Analysis code for confocal z-stack quantification of phalloidin (F-actin)
 and DNase I (G-actin) staining in hESCs.
 
-Guidance on image analysis from: Image Analysis Collaboratory at Harvard Medical School.
+Guidance on image analysis from Image Analysis Collaboratory at Harvard Medical School.  
 Code developed with assistance from Claude AI (Anthropic, 2025).
 
 **Associated manuscript:** "Genetic compensation in β-actin mutants occurs independently of mutations that destabilize β-actin mRNA"
